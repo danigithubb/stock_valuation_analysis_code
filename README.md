@@ -1,1 +1,3 @@
-# stock_valuation_analysis_code
+# stock_valuation_analysis
+
+#this repo is an example 

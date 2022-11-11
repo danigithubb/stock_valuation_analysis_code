@@ -4,7 +4,7 @@
 import yfinance as yf, pandas as pd, shutil, os, time, glob, smtplib, ssl
 from get_all_tickers import get_tickers as gt
 
-# Yfinance: Gather historical/ relevant data on each stock.
+#Yfinance: Gather historical/ relevant data on each stock.
 # Pandas: Work with large sets of data.
 # Shutil, Glob, and OS: Accessing folders/files on the computer.
 # Time: Forcing the program to pause for a period of time.
